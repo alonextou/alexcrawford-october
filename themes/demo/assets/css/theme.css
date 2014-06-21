@@ -6754,4 +6754,5 @@ header#layout-header .navbar-brand {
 }
 header#layout-header .navbar-brand {
   background-image: url('../images/avatar.png');
+  padding-left: 60px;
 }
