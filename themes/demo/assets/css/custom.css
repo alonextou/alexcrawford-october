@@ -1,0 +1,5 @@
+header#layout-header {
+    .navbar-brand {
+        background-image: url('../images/avatar.png');
+    }
+}
