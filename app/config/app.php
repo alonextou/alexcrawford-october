@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' => 'http://alexcrawford.dev',
+	'url' => 'http://alexcrawford.me',
 
 	/*
 	|--------------------------------------------------------------------------
