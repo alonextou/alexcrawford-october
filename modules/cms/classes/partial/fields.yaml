@@ -1,0 +1,25 @@
+fields:
+  fileName:
+    span: left
+    label: cms::lang.editor.filename
+    attributes:
+      default-focus: 1
+
+  settings[description]:
+    span: right
+    label: cms::lang.editor.description
+
+  toolbar:
+    type: partial
+    path: partial_toolbar
+    cssClass: collapse-visible
+
+secondaryTabs:
+  stretch: true
+  fields:
+    markup:
+      tab: cms::lang.editor.markup
+      type: codeeditor
+      stretch: true
+      options:
+        language: twig
